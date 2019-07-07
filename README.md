@@ -19,3 +19,7 @@ between the lid and enclosure of harvester (to ensure it's watertight).
 * parts/ - Inventor models of constituent electronics (e.g. everything not hand-crafted).
 * media/ - rendered stills and videos.
 
+## TODO
+* Add a stopper to SP16 back nut, that will prevent the nut from slipping.
+* Utilize internal space more (shrink 3d printed parts).
+
