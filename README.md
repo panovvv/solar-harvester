@@ -1,6 +1,6 @@
-# solar-harvester-145x145
+# Solar harvester for 145x145cm panel.
 
-![screenshot](https://github.com/panovvv/solar-harvester-145x145/raw/master/media/solar_harvester_145x145.png?raw=true)
+![assembly_instructions.gif](https://github.com/panovvv/solar-harvester-145x145/raw/master/media/assembly_instructions.gif?raw=true)
 
 ## BOM and detailed instructions
 Refer to this blog post: [Homemade solar harvester to power your outdoor projects.](https://www.shortn0tes.com/2019/07/solar-harvester.html)
@@ -22,4 +22,7 @@ between the lid and enclosure of harvester (to ensure it's watertight).
 ## TODO
 * Add a stopper to SP16 back nut, that will prevent the nut from slipping.
 * Utilize internal space more (shrink 3d printed parts).
-
+* Support more different solar panel sizes.
+* Support more charger boards: CN3791, TP4056, BQ24650.
+* Figure out a simple way to de-humidity internal space.
+* Make a "lip" at the brim and replace screws with bolts+nuts, that tends to be more watertight.
